@@ -1,4 +1,31 @@
-### Hi there 👋
+### Olá, eu sou o Ícaro!
+##
+
+- 🌱 Atualmente estudando HTML, CSS, JavaScript.
+- 🔭 Interessado em Node e React.
+
+
+
+
+ 
+ ##
+<div>
+<a href="https://github.com/IcaroMainarte">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroMainarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMainarte&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+## 
+<div> 
+  <a href="https://www.linkedin.com/in/icaromainarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:icaromainarte@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5531994782033" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  </div>
+ 
+
+
+
+
 
 <!--
 **IcaroMainarte/IcaroMainarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
